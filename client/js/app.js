@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:1001/api';
+const API_URL = 'http://localhost:10000/api';
 
 // Função para verificar a URL atual
 function isDashboardPage() {

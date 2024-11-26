@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:4000/api';
+const API_URL = 'https://fullstack-aw0a.onrender.com/api';
 
 // Função para verificar a URL atual
 function isDashboardPage() {

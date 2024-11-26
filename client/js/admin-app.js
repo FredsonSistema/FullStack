@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:1001/api/appointments'; 
+const API_URL = 'http://localhost:10000/api/appointments'; 
 // Função para fazer login
 async function loginUser(event) {
     event.preventDefault();

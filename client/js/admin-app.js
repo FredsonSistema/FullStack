@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:4000/api/appointments'; 
+const API_URL = 'https://fullstack-aw0a.onrender.com/api/appointments'; 
 // Função para fazer login
 async function loginUser(event) {
     event.preventDefault();
